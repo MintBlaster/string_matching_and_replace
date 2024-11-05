@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **String Matching and Replacement Tool** is a Python application that allows users to search for patterns in a text and replace them using different string matching algorithms. This tool provides a graphical user interface (GUI) built with PyQt5, making it easy to use for both beginners and advanced users.
+The **String Matching and Replacement Tool** is a Python application that allows users to search for patterns in a text and replace them using different string matching algorithms. This tool provides a graphical user interface (GUI) built with PyQt5.
 
 ## Features
 
